@@ -28,7 +28,7 @@
 - ### **DELETE**
 - https://todo-list-app-skilvul.herokuapp.com/todolist/{:id}
 
-## **menghapus salah satu data todo list**
+## **menghapus semua data todo list**
 - ### **DELETE**
 - https://todo-list-app-skilvul.herokuapp.com/todolist
 
