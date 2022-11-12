@@ -4,7 +4,7 @@ const app = express()
 const allRouter = require('./routes')
 // const database = require('./config/database')
 
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 app.use(express.json())
 app.use(allRouter)
