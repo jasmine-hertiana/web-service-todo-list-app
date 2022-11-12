@@ -37,7 +37,7 @@ module.exports = {
                             id: user.id,
                             name: user.name,
                             email: user.email
-                        }, "goldenhour", { expiresIn: '1m'}
+                        }, "goldenhour", { expiresIn: '5h'}
                     )
 
                     response.json({
