@@ -6,7 +6,7 @@
 
 ## **Sign up / register**
 - ### **POST**
-- https://todo-list-app-skilvul.herokuapp.com/auth/signin
+- https://todo-list-app-skilvul.herokuapp.com/auth/signup
 
 ## **melihat seluruh data todo list**
 - ### **GET**
